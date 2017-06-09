@@ -1,0 +1,17 @@
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_01.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_02.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_03.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_04.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_05.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_06.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_07.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_08.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_09.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_10.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_11.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_12.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_13.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_14.txt
+python genPage_DrChangBuTao_oneHtml.py BuTao_base_15.txt
+
+
